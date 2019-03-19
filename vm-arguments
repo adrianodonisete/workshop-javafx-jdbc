@@ -1,0 +1,4 @@
+ Configuração do build:
+o Botão direito no projeto -> Run As -> Run Configurations -> Arguments -> VM Arguments
+o Copiar o conteúdo abaixo, adaptando para sua pasta:
+--module-path C:\java-libs\javafx-sdk\lib --add-modules=javafx.fxml,javafx.controls
